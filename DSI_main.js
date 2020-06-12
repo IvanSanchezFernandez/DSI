@@ -22,7 +22,7 @@ function checkQ1() {
 		document.getElementById("answerQ1").innerHTML = "Correct!<br><br>";
 		document.getElementById("after_submitQ1").style.background = "lightgreen";
 		document.getElementById("answerQ1_picture").src = "img/classroom.png";
-		document.getElementById("afterQ1_picture").innerHTML = "The author proposes an analogy that in a class with a majority of well-behaved children and a few troublemakers his job (dynamic spectral imaging) consists of identifying the well-behaved children. The well-behaved children in this analogy are the normal brain circuits. Identifying them and keeping them in the brain while resecting the abnormal networks (troublemakers in the class) will make the brain (class) better<br><br> Try again!";
+		document.getElementById("afterQ1_picture").innerHTML = "The author proposes an analogy that in a class with a majority of well-behaved children and a few troublemakers his job (dynamic spectral imaging) consists of identifying the well-behaved children. The well-behaved children in this analogy are the normal brain circuits. Identifying them and keeping them in the brain while resecting the abnormal networks (troublemakers in the class) will make the brain (class) better<br><br> Good job!";
 }
 
 	if (document.question1.question.value == "d") {
