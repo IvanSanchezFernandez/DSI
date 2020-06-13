@@ -85,7 +85,7 @@ function checkQ3() {
 		document.getElementById("after_submitQ3").style.visibility = "visible";
 		document.getElementById("answerQ3").innerHTML = "Correct! <br><br> When the response is perfectly phase-locked with the stimulus, averaging the signal does not lead to loss of any frequency.<br><br>";
 		document.getElementById("after_submitQ3").style.background = "lightgreen";
-		document.getElementById("answerQ3_picture").src = "img/averaging.jpg";
+		document.getElementById("answerQ3_picture").src = "./img/averaging.jpg";
 		document.getElementById("afterQ3_picture").innerHTML = "However, when there is even a small misalignment, frequencies will be averaged out, affecting mostly the faster frequencies. <br><br> Great job!";
 
 	} else {
