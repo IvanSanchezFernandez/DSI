@@ -128,14 +128,6 @@ body {
 }
 
 
-#Q3_1 {
-	width: 900px;
-	heigth: 900px;
-	float: left;
-	border-radius: 20px;
-}
-
-
 #buttonQ3 {
 	background: green;
 	border: black;
